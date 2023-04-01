@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "witcherytombstonepatch",
+    "name": "Witchery Tombstone Patch",
+    "description": "Fixes items becoming unstackable after death (with Witchery Resurrected and Corail Tombstone)",
+    "version": "0.1",
+    "mcversion": "1.12.2",
+    "authorList": [
+      "vova7865"
+    ],
+    "credits": "",
+    "dependencies": [
+      "witchery",
+      "tombstone"
+    ]
+  }
+]
